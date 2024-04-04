@@ -1,0 +1,577 @@
+
+{
+  "stream": "TRANSCRIPTION",
+  "contactId": "aa621db9-934b-462c-bc7a-85f2e01c4c9f",
+  "transcriptions": [
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Good morning! Thank you for calling Patient Pathways. My name is Alex, and I'll be assisting you with your enrollment. How may I address you?",
+      "BeginOffsetMillis": 1257,
+      "EndOffsetMillis": 9697,
+      "Id": "fb29489e-d06b-48b1-8e0b-519f17c4a68e",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Hello, Alex. I'm Jordan Smith",
+      "BeginOffsetMillis": 3047,
+      "EndOffsetMillis": 8055,
+      "Id": "7f6820ee-0487-4cbc-9b35-33e7c31e1d5d",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "It's nice to meet you, Jordan. To start with your enrollment, I'll need to ask you a few questions. Is now a good time",
+      "BeginOffsetMillis": 10457,
+      "EndOffsetMillis": 16775,
+      "Id": "43d73132-0645-4133-8488-26aa9eac95bc",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Yes, that's fine",
+      "BeginOffsetMillis": 10457,
+      "EndOffsetMillis": 16775,
+      "Id": "43d73132-0645-4133-8488-26aa9eac95bc",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Great, thank you",
+      "BeginOffsetMillis": 17207,
+      "EndOffsetMillis": 21155,
+      "Id": "87b9d041-dadb-435f-a92b-6588bf150eea",
+      "Sentiment": "NEGATIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Let's begin with your full name for our records",
+      "BeginOffsetMillis": 21180,
+      "EndOffsetMillis": 22005,
+      "Id": "b8e2cca3-4cec-4a86-a20f-86fc0dc00101",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "It's Jordan Andrew Smith",
+      "BeginOffsetMillis": 21307,
+      "EndOffsetMillis": 21865,
+      "Id": "7d7cac42-9491-4c0e-bd34-f93764495e6d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Thank you, Jordan. May I ask which gender you identify with? This information helps us to tailor our care to your specific needs, but please know that providing this information is entirely optional",
+      "BeginOffsetMillis": 23097,
+      "EndOffsetMillis": 23895,
+      "Id": "497687d0-1cca-42c0-ae85-4c07d18b369d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, it's March 14, 1989",
+      "BeginOffsetMillis": 25320,
+      "EndOffsetMillis": 29805,
+      "Id": "36f02c1c-7fae-4e91-b72b-bae54d02e094",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Perfect, thank you. Next, I'll need your contact information. What's the best phone number and email to reach you at?",
+      "BeginOffsetMillis": 29050,
+      "EndOffsetMillis": 33065,
+      "Id": "2b9c0d6c-8b42-42c7-9793-e7a9920290d4",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "You can reach me at 555-123-4567 and jordan.smith@email.com",
+      "BeginOffsetMillis": 38330,
+      "EndOffsetMillis": 41625,
+      "Id": "08b277e9-dc2a-4286-b85f-6c93aba55461",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Got it. Now, let's talk about your health insurance details.",
+      "BeginOffsetMillis": 34347,
+      "EndOffsetMillis": 37075,
+      "Id": "977cdf75-8d0a-44bf-898b-010f81e947da",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Do you have your policy information handy?",
+      "BeginOffsetMillis": 34347,
+      "EndOffsetMillis": 37075,
+      "Id": "977cdf75-8d0a-44bf-898b-010f81e947da",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": " Could you please tell me the name of your health insurance provider.",
+      "BeginOffsetMillis": 42867,
+      "EndOffsetMillis": 44185,
+      "Id": "8c5b548b-f8b4-49eb-9bdb-8afbf97f9ec5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Yes, it's with HealthCare Plus",
+      "BeginOffsetMillis": 45440,
+      "EndOffsetMillis": 56165,
+      "Id": "c4383e94-4173-43d0-9201-a70851aa6981",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Thank you, Jordan. ",
+      "BeginOffsetMillis": 57100,
+      "EndOffsetMillis": 58635,
+      "Id": "70d7276d-4f11-4779-a606-e0b3bc203774",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "And do you have your member ID or policy number handy?",
+      "BeginOffsetMillis": 57100,
+      "EndOffsetMillis": 58635,
+      "Id": "70d7276d-4f11-4779-a606-e0b3bc203774",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "It's usually on the front of your insurance card",
+      "BeginOffsetMillis": 57100,
+      "EndOffsetMillis": 58635,
+      "Id": "70d7276d-4f11-4779-a606-e0b3bc203774",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, the policy number is HP123456789",
+      "BeginOffsetMillis": 57660,
+      "EndOffsetMillis": 61125,
+      "Id": "70737b9c-48d2-40ee-baa6-90a31ae3c83f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, the policy number is HP",
+      "BeginOffsetMillis": 57660,
+      "EndOffsetMillis": 61125,
+      "Id": "70737b9c-48d2-40ee-baa6-90a31ae3c83f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, the policy number is 1",
+      "BeginOffsetMillis": 57660,
+      "EndOffsetMillis": 61125,
+      "Id": "70737b9c-48d2-40ee-baa6-90a31ae3c83f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, the policy number is 234",
+      "BeginOffsetMillis": 57660,
+      "EndOffsetMillis": 61125,
+      "Id": "70737b9c-48d2-40ee-baa6-90a31ae3c83f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, the policy number is 56789",
+      "BeginOffsetMillis": 57660,
+      "EndOffsetMillis": 61125,
+      "Id": "70737b9c-48d2-40ee-baa6-90a31ae3c83f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Perfect, and the group number, if there is one?",
+      "BeginOffsetMillis": 61220,
+      "EndOffsetMillis": 62405,
+      "Id": "fb2c6f25-d1c3-4984-b5c5-5b3ea3f57d5f",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "It's 987654",
+      "BeginOffsetMillis": 63650,
+      "EndOffsetMillis": 67217,
+      "Id": "a48d64f3-8310-4fce-ba09-7d231f429d37",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Thank you for providing all that information",
+      "BeginOffsetMillis": 71670,
+      "EndOffsetMillis": 72235,
+      "Id": "531046fa-ef92-444a-b07b-1829905f70a2",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Now, let's discuss what brings you to us today. Could you tell me a bit about your current medical needs?",
+      "BeginOffsetMillis": 71670,
+      "EndOffsetMillis": 72235,
+      "Id": "531046fa-ef92-444a-b07b-1829905f70a2",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "I've been having recurring back pain, and I'm looking for a good specialist who can help me figure out the cause and treatment options.",
+      "BeginOffsetMillis": 76077,
+      "EndOffsetMillis": 80507,
+      "Id": "f584fc57-07bd-4b0d-b614-4b0b769db957",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "I understand that can be quite uncomfortable. Let me pull up a list of our affiliated specialists in your area. ",
+      "BeginOffsetMillis": 81307,
+      "EndOffsetMillis": 81775,
+      "Id": "cef9e912-5a8c-4f92-994a-095962a0113d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Are you looking for someone close to your home or work, and do you have a preference for the physician's experience or background?",
+      "BeginOffsetMillis": 81307,
+      "EndOffsetMillis": 81775,
+      "Id": "cef9e912-5a8c-4f92-994a-095962a0113d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Closer to home would be best, and I'd like someone who's experienced with sports injuries.",
+      "BeginOffsetMillis": 83157,
+      "EndOffsetMillis": 95985,
+      "Id": "b84b0aee-79b6-4f45-8614-738c6b64f4c5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Alright. Based on your preferences,",
+      "BeginOffsetMillis": 98800,
+      "EndOffsetMillis": 99335,
+      "Id": "419b3b34-752e-4477-8106-39f8509916f5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "I have a couple of recommendations for orthopedic specialists who have a strong background in sports medicine",
+      "BeginOffsetMillis": 98800,
+      "EndOffsetMillis": 99335,
+      "Id": "419b3b34-752e-4477-8106-39f8509916f5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Dr. Lee is located within five miles of your home and has excellent patient reviews",
+      "BeginOffsetMillis": 98800,
+      "EndOffsetMillis": 99335,
+      "Id": "419b3b34-752e-4477-8106-39f8509916f5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Alternatively, Dr. Patel is a bit further away but has a specialized focus on non-surgical treatments for back pain. Would you like me to book an appointment with either of them?",
+      "BeginOffsetMillis": 98800,
+      "EndOffsetMillis": 99335,
+      "Id": "419b3b34-752e-4477-8106-39f8509916f5",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Dr. Lee sounds good. Can we schedule a consultation for next week",
+      "BeginOffsetMillis": 102230,
+      "EndOffsetMillis": 103657,
+      "Id": "1e993995-872e-4b28-9d16-fbbd230feb16",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": " Certainly, I'll arrange that for you",
+      "BeginOffsetMillis": 103440,
+      "EndOffsetMillis": 107467,
+      "Id": "b3d5330e-a4d1-4acb-abb8-bf08e33d8906",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": ". How does Wednesday afternoon sound?",
+      "BeginOffsetMillis": 107740,
+      "EndOffsetMillis": 109815,
+      "Id": "abdb41a9-4ca0-457d-8e1d-b2a1539b50e4",
+      "Sentiment": "POSITIVE",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Perfect",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "I've scheduled your appointment with Dr. Lee for next Wednesday at 3 PM.",
+      "BeginOffsetMillis": 110330,
+      "EndOffsetMillis": 111945,
+      "Id": "2a07c56a-ae82-427c-a093-d9b5be297f0d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "You will receive a confirmation email shortly with all the details and a reminder a day before. Is there anything else I can assist you with today?",
+      "BeginOffsetMillis": 110330,
+      "EndOffsetMillis": 111945,
+      "Id": "2a07c56a-ae82-427c-a093-d9b5be297f0d",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "No, that's everything. Thank you for your help, Alex.",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "You're welcome, Jordan. ",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Before we wrap up, Jordan, I'd like to discuss something that might be beneficial for you. Given the nature of your back pain and the treatment you're seeking, there might be some additional financial support options available to help with your care.",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Oh? What kind of support are we talking about?",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "There are patient assistance programs and copay assistance options that could potentially reduce the cost of your treatments or medications",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Since you're seeing a specialist for your back pain, and depending on the treatment plan Dr. Lee recommends,",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": ", you might qualify for these programs",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Oh? What kind of support are we talking about?",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "That sounds great",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": ". Is there anything I need to do right now?",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "For now, the best step is to attend your consultation with Dr. Lee. I'll make a note in your file about exploring patient assistance programs and copay assistance once we have more details about your treatment plan. After your visit, just give us a call, and we'll take it from there",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "After your visit, just give us a call, and we'll take it from there",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": ".I appreciate that, Alex. I'll make sure to discuss this with Dr. Lee and get back to you",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Absolutely, Jordan. It's important to us that you receive the care you need without financial strain. We'll explore every option available to assist you. Is there anything else I can help you with today?",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "No, that's everything. Thank you for all the information and assistance, Alex",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "You're welcome, Jordan. Remember, we're here to help, so don't hesitate to reach out if you have any questions after your appointment. Take care, and I hope your consultation goes well.",
+      "BeginOffsetMillis": 108000,
+      "EndOffsetMillis": 108995,
+      "Id": "efd302bb-1f9d-45bc-b26c-cd8b9b841902",
+      "Sentiment": "NEUTRAL",
+      "IssuesDetected": []
+    }
+  ]
+}

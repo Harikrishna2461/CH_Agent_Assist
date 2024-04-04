@@ -1,0 +1,51 @@
+{
+  "entity_extraction": {
+    "enrollment_form_claude": """"Human: \" """ + conv3 + """ \"
+
+The above conversation is an automated transcript between a call centre agent and an insurance subscriber or 
+patiet. I want to extract few key entities like name of patient, status of insurance, insurance number, 
+demographic details etc. All or some information may be present in this transcript.
+Extract the entities that you are able to find from this piece of call transcript.
+In the above text, if you find any section that talks about appointment or schedule time and contains text 
+like 'this week', 'next week', 'this Friday', 'next Monday' etc; please convert that pharase to the actual 
+date considering the difference from today's date which is """ + today + """
+
+The output would be a structured json with only the extracted fields. Just print the exact output.
+No need to print any extra text. Also do not generate an answer if that is not found in the transcript.
+
+Assistant:
+"""",
+    "enrollment_form_llama2": ""
+  },
+  "text_summarization": {
+    "summary_llama2": "f"""
+                       Instruction: "Summarise this call transcript between a patient and an agent and provide it in a precise paragraph : " :
+                       {context}.
+             
+                       Response :  
+                       """",
+    "summary_claude": ""
+	},
+
+ "insight_generation": {
+    "insights_claude": """"Human: 
+ 
+You are Agent assist tracking the Patient and agent conversation and help the agent recommend meaningful insights on the 
+insurance and insurance details related insights like for example suggesting which pharmacy to select based on the
+patient's Insurance provider using metrics like how soon the pharmacy dispenses the medication to the patient.The lesser the
+number of days to dispense the medication,the higher are the chances of recommendation of that pharmacy.
+
+The patients's insurance provider is  \" """ + insurance_provider + """ \" and use the following json data to provide the insights:
+\" """ + insurance_statistics + """ \".
+
+In the Json Data,the keys represent the insurance provider and the value represents the pharmacy company and the number of days
+it takes to dispense the medication to the patient
+ 
+Assistant:
+"""",
+    "insights_llama2": ""
+}
+}
+
+
+

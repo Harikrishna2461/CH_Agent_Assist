@@ -1,0 +1,28 @@
+{
+    "insurance_type_prompt_generator": {
+        "params": [
+            "insurance_type"
+        ]
+    },
+    "insurance_type_and_provider_prompt_generator": {
+        "params": [
+            "insurance_type",
+            "insurance_provider"
+        ]
+    },
+    "insurance_type_provider_pharmacy_ttf_prompt_generator": {
+        "params": [
+            "insurance_type",
+            "insurance_provider",
+            "pharmacy_name"
+           
+        ]
+    },
+    "insurance_type_provider_pharmacy_prompt_generator": {
+        "params": [
+            "insurance_type",
+            "insurance_provider",
+            "pharmacy_name"
+        ]
+    }
+}
