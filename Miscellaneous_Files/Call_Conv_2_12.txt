@@ -1,0 +1,299 @@
+[
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'Improving. Uh, Okay? Mm hmm. Obviously.',
+      BeginOffsetMillis: 1257,
+      EndOffsetMillis: 9697,
+      Sentiment: 'NEUTRAL',
+      Id: 'fb29489e-d06b-48b1-8e0b-519f17c4a68e'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Fine. Thank you. I think',
+      BeginOffsetMillis: 3047,
+      EndOffsetMillis: 8055,
+      Sentiment: 'POSITIVE',
+      Id: '7f6820ee-0487-4cbc-9b35-33e7c31e1d5d'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'A little bit. More even now.',
+      BeginOffsetMillis: 10457,
+      EndOffsetMillis: 16775,
+      Sentiment: 'POSITIVE',
+      Id: '43d73132-0645-4133-8488-26aa9eac95bc'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "Yeah, you're audible and disconnecting. Yeah.",
+      BeginOffsetMillis: 17207,
+      EndOffsetMillis: 21155,
+      Sentiment: 'NEGATIVE',
+      Id: '87b9d041-dadb-435f-a92b-6588bf150eea'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "Now it's better.",
+      BeginOffsetMillis: 21180,
+      EndOffsetMillis: 22005,
+      Sentiment: 'POSITIVE',
+      Id: 'b8e2cca3-4cec-4a86-a20f-86fc0dc00101'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Okay?',
+      BeginOffsetMillis: 21307,
+      EndOffsetMillis: 21865,
+      Sentiment: 'NEUTRAL',
+      Id: '7d7cac42-9491-4c0e-bd34-f93764495e6d'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Yes, yes.',
+      BeginOffsetMillis: 23097,
+      EndOffsetMillis: 23895,
+      Sentiment: 'NEUTRAL',
+      Id: '497687d0-1cca-42c0-ae85-4c07d18b369d'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "Let's have a few details from you. I'm gonna give you the full name.",
+      BeginOffsetMillis: 25320,
+      EndOffsetMillis: 29805,
+      Sentiment: 'NEUTRAL',
+      Id: '36f02c1c-7fae-4e91-b72b-bae54d02e094'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Mhm. Yes, Michael name is Raven common.',
+      BeginOffsetMillis: 29050,
+      EndOffsetMillis: 33065,
+      Sentiment: 'NEUTRAL',
+      Id: '2b9c0d6c-8b42-42c7-9793-e7a9920290d4'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "You can, uh, What's your, uh, date of birth?",
+      BeginOffsetMillis: 34347,
+      EndOffsetMillis: 37075,
+      Sentiment: 'NEUTRAL',
+      Id: '977cdf75-8d0a-44bf-898b-010f81e947da'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'My date of birth. 20th May 1989',
+      BeginOffsetMillis: 38330,
+      EndOffsetMillis: 41625,
+      Sentiment: 'NEUTRAL',
+      Id: '08b277e9-dc2a-4286-b85f-6c93aba55461'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "What's your email address?",
+      BeginOffsetMillis: 42867,
+      EndOffsetMillis: 44185,
+      Sentiment: 'NEUTRAL',
+      Id: '8c5b548b-f8b4-49eb-9bdb-8afbf97f9ec5'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'My email address is provided early. Active mail dot com. The email ID is At the end, right. It would be cerulean double a',
+      BeginOffsetMillis: 45440,
+      EndOffsetMillis: 56165,
+      Sentiment: 'NEUTRAL',
+      Id: 'c4383e94-4173-43d0-9201-a70851aa6981'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'Okay? Uh,',
+      BeginOffsetMillis: 57100,
+      EndOffsetMillis: 58635,
+      Sentiment: 'NEUTRAL',
+      Id: '70d7276d-4f11-4779-a606-e0b3bc203774'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: "If it's a R A L double. I At gmail dot com.",
+      BeginOffsetMillis: 57660,
+      EndOffsetMillis: 61125,
+      Sentiment: 'NEUTRAL',
+      Id: '70737b9c-48d2-40ee-baa6-90a31ae3c83f'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "What's your phone number?",
+      BeginOffsetMillis: 61220,
+      EndOffsetMillis: 62405,
+      Sentiment: 'NEUTRAL',
+      Id: 'fb2c6f25-d1c3-4984-b5c5-5b3ea3f57d5f'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'My phone number is 974329498.',
+      BeginOffsetMillis: 63650,
+      EndOffsetMillis: 67217,
+      Sentiment: 'NEUTRAL',
+      Id: 'a48d64f3-8310-4fce-ba09-7d231f429d37'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'Okay?',
+      BeginOffsetMillis: 71670,
+      EndOffsetMillis: 72235,
+      Sentiment: 'NEUTRAL',
+      Id: '531046fa-ef92-444a-b07b-1829905f70a2'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Yep. You mean be needing my address, right?',
+      BeginOffsetMillis: 76077,
+      EndOffsetMillis: 80507,
+      Sentiment: 'NEUTRAL',
+      Id: 'f584fc57-07bd-4b0d-b614-4b0b769db957'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'Yeah.',
+      BeginOffsetMillis: 81307,
+      EndOffsetMillis: 81775,
+      Sentiment: 'NEUTRAL',
+      Id: 'cef9e912-5a8c-4f92-994a-095962a0113d'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Yeah, My address is the 1 25 38. 19th closed 16 minutes now. We came second stage Bangalore. Been there twice. 56 double 076.',
+      BeginOffsetMillis: 83157,
+      EndOffsetMillis: 95985,
+      Sentiment: 'NEUTRAL',
+      Id: 'b84b0aee-79b6-4f45-8614-738c6b64f4c5'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'Okay?',
+      BeginOffsetMillis: 98800,
+      EndOffsetMillis: 99335,
+      Sentiment: 'NEUTRAL',
+      Id: '419b3b34-752e-4477-8106-39f8509916f5'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Mm hmm. Yeah.',
+      BeginOffsetMillis: 102230,
+      EndOffsetMillis: 103657,
+      Sentiment: 'NEUTRAL',
+      Id: '1e993995-872e-4b28-9d16-fbbd230feb16'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: "Cool. Uh, That's all That's information I required from you.",
+      BeginOffsetMillis: 103440,
+      EndOffsetMillis: 107467,
+      Sentiment: 'POSITIVE',
+      Id: 'b3d5330e-a4d1-4acb-abb8-bf08e33d8906'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'AGENT',
+      ParticipantRole: 'AGENT',
+      Content: 'I will check and let you know. Thank you.',
+      BeginOffsetMillis: 107740,
+      EndOffsetMillis: 109815,
+      Sentiment: 'POSITIVE',
+      Id: 'abdb41a9-4ca0-457d-8e1d-b2a1539b50e4'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Okay? Okay?',
+      BeginOffsetMillis: 108000,
+      EndOffsetMillis: 108995,
+      Sentiment: 'NEUTRAL',
+      Id: 'efd302bb-1f9d-45bc-b26c-cd8b9b841902'
+    }
+  },
+  {
+    Transcript: {
+      ParticipantId: 'CUSTOMER',
+      ParticipantRole: 'CUSTOMER',
+      Content: 'Sure, certainly.',
+      BeginOffsetMillis: 110330,
+      EndOffsetMillis: 111945,
+      Sentiment: 'NEUTRAL',
+      Id: '2a07c56a-ae82-427c-a093-d9b5be297f0d'
+    }
+  }
+]

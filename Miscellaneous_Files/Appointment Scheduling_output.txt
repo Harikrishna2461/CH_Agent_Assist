@@ -1,0 +1,14 @@
+{
+  "AgentName": "Mia",
+  "Company": "Health Assistance Network",
+  "CustomerName": "Emily Carter",
+  "AssistanceType": "Appointment scheduling and insurance verification",
+  "DiseaseOrProblem": "Ongoing knee pain",
+  "InsuranceProvider": "Alliance Health",
+  "PolicyNumber": "AG1234567",
+  "AppointmentDetails": {
+    "Date": "02/21/2024",
+    "TimePreference": "After 12",
+    "SlotConfirmed": "1 PM"
+  }
+}

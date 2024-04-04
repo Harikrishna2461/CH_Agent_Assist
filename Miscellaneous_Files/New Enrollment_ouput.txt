@@ -1,0 +1,48 @@
+{
+  "CustomerName": "Jordan Smith",
+  "ReasonForCall": "New enrollment",
+  "CurrentInsuranceProvider": "HealthCare Plus",
+  "PolicyNumber": "HP123456789",
+  "GroupNumber": "WG78910",
+  "CurrentMedications": [
+    {
+      "MedicationName": "Metformin",
+      "Purpose": "Diabetes",
+      "Dosage": "500mg",
+      "Frequency": "Twice a day"
+    },
+    {
+      "MedicationName": "Lisinopril",
+      "Purpose": "High blood pressure",
+      "Dosage": "10mg",
+      "Frequency": "Once a day"
+    }
+  ],
+  "PastMedications": [
+    {
+      "MedicationName": "Simvastatin",
+      "Purpose": "Cholesterol",
+      "Dosage": "20mg",
+      "Frequency": "Once a day",
+      "Stopped": "6 months ago"
+    }
+  ],
+  "DiseaseOrProblem": "Back pain",
+  "SpecialistType": "Orthopedic specialist",
+  "PreferredSpecialist": [
+    {
+      "Name": "Dr. Lee",
+      "Location": "Within five miles of home",
+      "Specialization": "Sports injuries"
+    },
+    {
+      "Name": "Dr. Patel",
+      "Specialization": "Non-surgical treatments for back pain"
+    }
+  ],
+  "AppointmentPreference": "Next week",
+  "AdditionalSupportOptions": [
+    "Patient assistance programs",
+    "Copay assistance options"
+  ]
+}

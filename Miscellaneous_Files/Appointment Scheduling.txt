@@ -1,0 +1,115 @@
+{
+  "stream": "TRANSCRIPTION",
+  "contactId": "bb731db9-123b-567c-bc8a-95f3e01c5d9g",
+  "transcriptions": [
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Hello and welcome to Health Assistance Network. My name is Mia, and I'm here to help with your case. May I have your name, please?",
+      "BeginOffsetMillis": 1000,
+      "EndOffsetMillis": 5000,
+      "Id": "a1b2948e-c06b-48d1-9e0b-529f17d4b68f",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Hi, Mia. This is Emily Carter speaking.",
+      "BeginOffsetMillis": 6000,
+      "EndOffsetMillis": 8000,
+      "Id": "b2f6820e-1477-4cbc-8b35-43e7c31e2d5d",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Great to meet you, Emily. How can I assist you today?",
+      "BeginOffsetMillis": 9000,
+      "EndOffsetMillis": 12000,
+      "Id": "c3g73132-9645-4133-9488-36aa9eac85bc",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "I need to schedule an appointment with a specialist for my ongoing knee pain. Also, can you help me verify if my insurance covers this?",
+      "BeginOffsetMillis": 13000,
+      "EndOffsetMillis": 17000,
+      "Id": "d4h9d041-eada-435f-c92b-7688bf150eea",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Certainly, Emily. I can help with that. May I know the name of your insurance provider and your policy number for verification?",
+      "BeginOffsetMillis": 18000,
+      "EndOffsetMillis": 22000,
+      "Id": "e5i2cca3-5cec-4a86-d20f-97fc0dc002f1",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, it's Alliance Health. My policy number is AG1234567.",
+      "BeginOffsetMillis": 23000,
+      "EndOffsetMillis": 25000,
+      "Id": "f6j7cac42-0591-4c0e-cd34-g93764495e7d",
+      "Sentiment": "NEUTRAL"
+    },
+{
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Thank you, I would love to schedule an appointment for you",
+      "BeginOffsetMillis": 18000,
+      "EndOffsetMillis": 22000,
+      "Id": "e5i2cca3-5cec-4a86-d20f-97fc0dc002f1",
+      "Sentiment": "NEUTRAL"
+    },
+{
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "So the earliest we can have you booked is tomorrow morning",
+      "BeginOffsetMillis": 18000,
+      "EndOffsetMillis": 22000,
+      "Id": "e5i2cca3-5cec-4a86-d20f-97fc0dc002f1",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "That works, can you get me a slot after 12?",
+      "BeginOffsetMillis": 23000,
+      "EndOffsetMillis": 25000,
+      "Id": "f6j7cac42-0591-4c0e-cd34-g93764495e7d",
+      "Sentiment": "NEUTRAL"
+    },
+{
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Ah! let me quickly check that for you, kindly give me a min",
+      "BeginOffsetMillis": 18000,
+      "EndOffsetMillis": 22000,
+      "Id": "e5i2cca3-5cec-4a86-d20f-97fc0dc002f1",
+      "Sentiment": "NEUTRAL"
+    },
+{
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "So there is 1 PM solot open, does this work for you",
+      "BeginOffsetMillis": 18000,
+      "EndOffsetMillis": 22000,
+      "Id": "e5i2cca3-5cec-4a86-d20f-97fc0dc002f1",
+      "Sentiment": "NEUTRAL"
+    },
+
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Absolutely, thank you",
+      "BeginOffsetMillis": 23000,
+      "EndOffsetMillis": 25000,
+      "Id": "f6j7cac42-0591-4c0e-cd34-g93764495e7d",
+      "Sentiment": "NEUTRAL"
+    }
+  ]
+}

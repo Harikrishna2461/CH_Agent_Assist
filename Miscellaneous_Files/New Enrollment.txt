@@ -1,0 +1,68 @@
+{
+  "stream": "TRANSCRIPTION",
+  "contactId": "gh891ij2-klmn-7890-qrst-uv4567890123",
+  "transcriptions": [
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Hello and welcome to the National Health Enrollment Line. My name is Lucas, and I'll be guiding you through the enrollment process today. Can I start with your full name and the reason for your call?",
+      "BeginOffsetMillis": 1500,
+      "EndOffsetMillis": 7000,
+      "Id": "w4x5y6z7-a8b9-c0d1-e2f3-g4h5i6j7k8l9",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Hi Lucas, this is Isabella Martin. I’m looking to enroll in a new health plan and need some information on the coverage options, especially concerning my current medications and health conditions.",
+      "BeginOffsetMillis": 7100,
+      "EndOffsetMillis": 13000,
+      "Id": "m1n2o3p4-q5r6-s7t8-u9v0-w1x2y3z4a5b6",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Absolutely, Isabella. I'm here to help with that. Let's start with your current insurance. Can you tell me who your current provider is and if you have any specific payer details, such as a member ID?",
+      "BeginOffsetMillis": 13100,
+      "EndOffsetMillis": 19000,
+      "Id": "c7d8e9f0-g1h2-i3j4-k5l6-m7n8o9p0q1r2",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Sure, my current provider is Wellness Health Insurance, and my member ID is WH123456. I also have a group number, which is WG78910.",
+      "BeginOffsetMillis": 19100,
+      "EndOffsetMillis": 24000,
+      "Id": "s3t4u5v6-w7x8-y9z0-a1b2-c3d4e5f6g7h8",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Thank you for that information, Isabella. Now, regarding your medications, can you share what you're currently taking and if there are any past medications we should be aware of?",
+      "BeginOffsetMillis": 24100,
+      "EndOffsetMillis": 29000,
+      "Id": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "CUSTOMER",
+      "ParticipantRole": "CUSTOMER",
+      "Content": "Currently, I'm on Metformin for my diabetes and Lisinopril for high blood pressure. In the past, I've taken Simvastatin for cholesterol, but I stopped that about six months ago.",
+      "BeginOffsetMillis": 29100,
+      "EndOffsetMillis": 34000,
+      "Id": "y5z6a7b8-c9d0-e1f2-g3h4-i5j6k7l8m9n0",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "ParticipantId": "AGENT",
+      "ParticipantRole": "AGENT",
+      "Content": "Great, I've noted all that. Based on your current health needs and medications, we have several plans that might be a good fit for you. Would you like to go over these options now, or is there anything else specific you need assistance with?",
+      "BeginOffsetMillis": 34100,
+      "EndOffsetMillis": 39000,
+      "Id": "o9p0q1r2-s3t4-u5v6-w7x8-y9z0a1b2c3d4",
+      "Sentiment": "POSITIVE"
+    },
+   

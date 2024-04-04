@@ -1,0 +1,21 @@
+{
+  "AgentName": "Alex",
+  "CustomerName": "Jordan Smith",
+  "CustomerDOB": "1989-03-14",
+  "ContactNumber": "555-123-4567",
+  "Email": "jordan.smith@email.com",
+  "InsuranceProvider": "HealthCare Plus",
+  "PolicyNumber": "HP123456789",
+  "GroupNumber": "987654",
+  "MedicalConcern": "Recurring back pain",
+  "Preference": "Specialist experienced with sports injuries",
+  "AppointmentPreference": {
+    "Location": "Close to home",
+    "SpecialistType": "Orthopedic specialists with a strong background in sports medicine"
+  },
+  "AppointmentScheduling": {
+    "Specialist": "Dr. Lee",
+    "Date": "02/21/2024 at 3 PM",
+    "AdditionalSupportOptions": "Patient assistance programs and copay assistance"
+  }
+}

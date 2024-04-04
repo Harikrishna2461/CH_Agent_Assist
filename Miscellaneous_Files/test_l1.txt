@@ -1,0 +1,65 @@
+{
+  "Records": [
+    {
+      "messageId": "355c3548-1f03-4c5e-b241-3c6e4bed5601",
+      "receiptHandle": "AQEBtGG/BXpQS9fewvrud7Ct+0Pm1fWqFdXUutYN2NKU5Ohukwi/rZLaaKD7mNkMv619WOI1ao9LwvhDO573DROL+wUCQQz1ejI+BaTYWKs629P7sBa8/ND4Bv3SfKPe4p+rMALYuANfO/XoeN6lfjvkNGcSWiyO5PrVyyEPPIKSIg/d/p2viccwRB3s7Q/0TwIxK3iYkSkHoUAOYdcCEQQU1Ia6srdP0D4RCtFXPh4S21F4IljNVF5DYiEFYGX78bPdTVluBqZm9xpjEYw+fOl8YrsIM0p5S9vCBQhouj5rC8Xo8dbrrUo6SAwJqmxWSckmHMda14eyA6zyomtz2xzmxCwdzUVvRMa4J9eMPB+u941W10aK7CP/PvqziaO28aDNuStE6KLOF/2VmgfK9eXF5w==",
+      "body": "{\"stream\":\"TRANSCRIPT\",\"streamConnectionId\":\"149edb05-7fd0-48b0-a6e9-3e7b49a0b8d7\",\"body\":{\"transactionId\":\"50b1f7fb-b502-42fa-95f2-281ed6006efe\",\"transcript\":[{\"ParticipantId\":\"CUSTOMER\",\"ParticipantRole\":\"CUSTOMER\",\"Content\":\"Hello!.\",\"BeginOffsetMillis\":399340,\"EndOffsetMillis\":399745,\"Id\":\"f10ada6b-dfeb-4569-8b2c-f4e83d60efbc\",\"Sentiment\":\"NEUTRAL\",\"IssuesDetected\":[]}]}}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "AWSTraceHeader": "Root=1-65d48ed1-196e903e02d83fbd5c5a23bb;Parent=07e7ba1a0a2f4dae;Sampled=0;Lineage=8448a41f:0",
+        "SentTimestamp": "1708429009330",
+        "SenderId": "AROAVSPTL2UI67PVNI4RP:CH_Kinesis_Transcriber",
+        "ApproximateFirstReceiveTimestamp": "1708429009331"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "3488de905e211729d102b02f70a21683",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:383299343633:ch-agent-assist-sqs",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
+
+{
+  "Records": [
+    {
+      "messageId": "355c3548-1f03-4c5e-b241-3c6e4bed5601",
+      "receiptHandle": "AQEBtGG/BXpQS9fewvrud7Ct+0Pm1fWqFdXUutYN2NKU5Ohukwi/rZLaaKD7mNkMv619WOI1ao9LwvhDO573DROL+wUCQQz1ejI+BaTYWKs629P7sBa8/ND4Bv3SfKPe4p+rMALYuANfO/XoeN6lfjvkNGcSWiyO5PrVyyEPPIKSIg/d/p2viccwRB3s7Q/0TwIxK3iYkSkHoUAOYdcCEQQU1Ia6srdP0D4RCtFXPh4S21F4IljNVF5DYiEFYGX78bPdTVluBqZm9xpjEYw+fOl8YrsIM0p5S9vCBQhouj5rC8Xo8dbrrUo6SAwJqmxWSckmHMda14eyA6zyomtz2xzmxCwdzUVvRMa4J9eMPB+u941W10aK7CP/PvqziaO28aDNuStE6KLOF/2VmgfK9eXF5w==",
+      "body": "{\"stream\":\"TRANSCRIPT\",\"streamConnectionId\":\"149edb05-7fd0-48b0-a6e9-3e7b49a0b8d7\",\"body\":{\"transactionId\":\"50b1f7fb-b502-42fa-95f2-281ed6006efe\",\"transcript\":[{\"ParticipantId\":\"CUSTOMER\",\"ParticipantRole\":\"CUSTOMER\",\"Content\":\"Hello I'm John.\",\"BeginOffsetMillis\":399340,\"EndOffsetMillis\":399745,\"Id\":\"f10ada6b-dfeb-4569-8b2c-f4e83d60efbc\",\"Sentiment\":\"NEUTRAL\",\"IssuesDetected\":[]}]}}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "AWSTraceHeader": "Root=1-65d48ed1-196e903e02d83fbd5c5a23bb;Parent=07e7ba1a0a2f4dae;Sampled=0;Lineage=8448a41f:0",
+        "SentTimestamp": "1708429009330",
+        "SenderId": "AROAVSPTL2UI67PVNI4RP:CH_Kinesis_Transcriber",
+        "ApproximateFirstReceiveTimestamp": "1708429009331"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "3488de905e211729d102b02f70a21683",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:383299343633:ch-agent-assist-sqs",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
+
+{
+  "Records": [
+    {
+      "messageId": "355c3548-1f03-4c5e-b241-3c6e4bed5601",
+      "receiptHandle": "AQEBtGG/BXpQS9fewvrud7Ct+0Pm1fWqFdXUutYN2NKU5Ohukwi/rZLaaKD7mNkMv619WOI1ao9LwvhDO573DROL+wUCQQz1ejI+BaTYWKs629P7sBa8/ND4Bv3SfKPe4p+rMALYuANfO/XoeN6lfjvkNGcSWiyO5PrVyyEPPIKSIg/d/p2viccwRB3s7Q/0TwIxK3iYkSkHoUAOYdcCEQQU1Ia6srdP0D4RCtFXPh4S21F4IljNVF5DYiEFYGX78bPdTVluBqZm9xpjEYw+fOl8YrsIM0p5S9vCBQhouj5rC8Xo8dbrrUo6SAwJqmxWSckmHMda14eyA6zyomtz2xzmxCwdzUVvRMa4J9eMPB+u941W10aK7CP/PvqziaO28aDNuStE6KLOF/2VmgfK9eXF5w==",
+      "body": "{\"stream\":\"TRANSCRIPT\",\"streamConnectionId\":\"149edb05-7fd0-48b0-a6e9-3e7b49a0b8d7\",\"body\":{\"transactionId\":\"50b1f7fb-b502-42fa-95f2-281ed6006efe\",\"transcript\":[{\"ParticipantId\":\"CUSTOMER\",\"ParticipantRole\":\"CUSTOMER\",\"Content\":\"Hello I'm John,my Age is 40 and my Phone Number is '920100389103'.\",\"BeginOffsetMillis\":399340,\"EndOffsetMillis\":399745,\"Id\":\"f10ada6b-dfeb-4569-8b2c-f4e83d60efbc\",\"Sentiment\":\"NEUTRAL\",\"IssuesDetected\":[]}]}}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "AWSTraceHeader": "Root=1-65d48ed1-196e903e02d83fbd5c5a23bb;Parent=07e7ba1a0a2f4dae;Sampled=0;Lineage=8448a41f:0",
+        "SentTimestamp": "1708429009330",
+        "SenderId": "AROAVSPTL2UI67PVNI4RP:CH_Kinesis_Transcriber",
+        "ApproximateFirstReceiveTimestamp": "1708429009331"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "3488de905e211729d102b02f70a21683",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:383299343633:ch-agent-assist-sqs",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "entity_extraction": {
+    "enrollment_form_claude": "Human: {conversation}\nThe above conversation is an automated transcript between a call centre agent and an insurance subscriber or patient.\nI want to extract few key entities like {entities}.\nAll or some information may be present in this transcript.\nExtract the entities that you are able to find from this piece of call transcript.\nIn the above text, if you find any section that talks about appointment or schedule time and contains text like 'this week', 'next week', 'this Friday', 'next Monday' etc; please convert that phrase to the actual date considering the difference from today's date.\nThe output would be a structured json with only the extracted fields.\nJust print the exact output without any extra sentences at the end or beginning.\nNo need to print any extra text.\nAlso, do not generate an answer if that is not found in the transcript.\n\nAssistant:",
+    "enrollment_form_llama2": "",
+    "enrollment_form_titan": "Meeting Transcript: {conversation}\nFrom the above meeting transcript between a call centre agent and an insurance subscriber or patient,extract all the relevant entities like {entities} present along with their values and provide the output in a structured json format.\nGive only the Json Object as the response and do not any other lines or information."},
+  "text_summarization": {
+    "summary_llama2": "Instruction: 'Summarise this call transcript between a patient and an agent and provide it in a precise paragraph : ' : {context}.\nResponse :",
+    "summary_claude": ""
+  },
+  "insight_generation": {
+    "insights_claude": "Human: You are Agent assist tracking the Patient and agent conversation and help the agent recommend meaningful insights on the insurance and insurance details related insights like for example suggesting which pharmacy to select based on the patient's Insurance provider using metrics like how soon the pharmacy dispenses the medication to the patient.\nThe lesser the number of days to dispense the medication, the higher are the chances of recommendation of that pharmacy.\nThe patients's insurance provider is {insurance_provider} and use the following json data to provide the insights: {insurance_statistics}.\nIn the Json Data, the keys represent the insurance provider and the value represents the pharmacy company and the number of days it takes to dispense the medication to the patient\n\nAssistant:",
+    "insights_llama2": ""
+  }
+}
